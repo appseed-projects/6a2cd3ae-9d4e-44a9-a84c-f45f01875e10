@@ -1,0 +1,23 @@
+{
+    "backend": "flask",
+    "db_name": "",
+    "db_pass": "",
+    "db_type": "sqlite",
+    "db_user": "",
+    "dbms": "1",
+    "description": "generated product",
+    "design": "volt-dashboard",
+    "docker": "0",
+    "err_code": 0,
+    "frontend": "",
+    "heroku": "0",
+    "pattern": "mvc",
+    "pro": "0",
+    "task_id": "6a2cd3ae-9d4e-44a9-a84c-f45f01875e10",
+    "task_info": "Upload Sources [0%] - 468 files",
+    "task_output": "6a2cd3ae-9d4e-44a9-a84c-f45f01875e10.zip",
+    "task_result": "SUCCESS",
+    "task_state": "RUNNING",
+    "task_ts_end": "2023-03-01-09-10-54",
+    "task_ts_start": "2023-03-01-09-10-52"
+}
